@@ -19,9 +19,10 @@ The complete step-by-step process is detailed in this [shared document](https://
 4. **Veris soil sensor data (GeoPackage)**
    - Imported with Python + GeoPandas.
 
-
 ##  Video Evidence
 The video PART_1.webm demonstrates, from within the Docker container, that the PostgreSQL database contains the three tables
+
 --
 Note:
 For data transformation and analysis, I’ll use Python. While I could perform grouping, joining, and filtering operations directly in SQL, I find that using a Google Colab notebook provides a cleaner and more transparent way to share both the code and the analytical insights step by step.
+--
