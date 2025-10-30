@@ -1,6 +1,6 @@
 # 🐳 Part 1 — Infrastructure Setup with Docker
 
-This repository documents the setup and upload process of **spatial datasets** into a **PostgreSQL + PostGIS** database using Docker.  
+This repository documents the setup and upload process of spatial datasets into a **PostgreSQL + PostGIS** database using Docker.  
 The goal is to build a reproducible spatial-data environment for later analysis and visualization.
 
 ---
@@ -8,8 +8,8 @@ The goal is to build a reproducible spatial-data environment for later analysis 
 ## 📄 Documentation & Evidence
 
 - 📘 **Detailed Process:** [Google Doc](https://docs.google.com/document/d/1HuQ6qCgoR1tylKmPry1VrAUdCpMT_QI3KeBg7WzyTZA/edit?tab=t.0)
-- 🎥 **Video Evidence:** `PART_1.webm` — shows the setup and table creation inside the Docker container
-- 🐋 **Dockerfile:** included in this repo — contains the script used to build the image
+- 🎥 **Video Evidence:** `PART_1.webm` — shows the 3 tables inside the Docker container
+- 🐋 **Dockerfile:** included in this repo contains the script used to build the image
 
 ---
 
@@ -17,7 +17,7 @@ The goal is to build a reproducible spatial-data environment for later analysis 
 
 ### 1. Docker Environment
 - Installed Docker on mi CPU.
-- Created a `Dockerfile` to build a container running **PostgreSQL + PostGIS**.
+- Created a `Dockerfile` to build a container running **PostgreSQL + PostGIS** with h3-pg extension.
 - Built the image and launched the container.
 
 ### 2. La Magdalena — Field Boundary (KML)
@@ -32,4 +32,7 @@ The goal is to build a reproducible spatial-data environment for later analysis 
 - Imported the GeoPackage file with **Python + GeoPandas**.
 - Created the table: `veris_soil_data`.
 
+---
 
+NOTE: For data transformation and analysis I will primarily use Python.
+Although many operations (grouping, joining, filtering) can be performed directly in SQL, I prefer to use Google Colab notebooks to present the step-by-step code, intermediate results, visualizations, and comments in a shareable and reproducible format.
