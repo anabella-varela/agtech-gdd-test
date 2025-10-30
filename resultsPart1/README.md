@@ -1,11 +1,11 @@
-# 🧩 Part 1. Setting up the Infrastructure with Docker 🐳
+# Part 1. Setting up the Infrastructure with Docker 🐳
 
 This repository documents the setup and upload process of spatial datasets into a PostgreSQL + PostGIS database using Docker.  
 
-The complete step-by-step process is detailed in this[shared document](https://docs.google.com/document/d/1HuQ6qCgoR1tylKmPry1VrAUdCpMT_QI3KeBg7WzyTZA/edit?tab=t.0), and demonstrated in the attached Video Evidence -> PART_1.webm 🎥 
+The complete step-by-step process is detailed in this [shared document](https://docs.google.com/document/d/1HuQ6qCgoR1tylKmPry1VrAUdCpMT_QI3KeBg7WzyTZA/edit?tab=t.0), and demonstrated in the attached Video Evidence -> PART_1.webm 🎥 
 
 ---
-## 🧠 Steps Summary
+## Steps Summary
 
 1. **Docker setup**
    - Downloaded Docker into my personal computer
@@ -23,6 +23,6 @@ The complete step-by-step process is detailed in this[shared document](https://d
 
 ---
 
-## 🎥 Video Evidence
-The attached video demonstrates, from within the Docker container, that the PostgreSQL database contains the three tables
+##  Video Evidence
+The video PART_1.webm demonstrates, from within the Docker container, that the PostgreSQL database contains the three tables
 
