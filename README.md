@@ -4,11 +4,11 @@
 
 ## Part 1. Setting up the infrastructure with Docker 🐳 
 
-This section can be found in folder 1
+This section can be found in resultsPart1
 
 ## Part 2. Analyzing crop yield data  🌱
 
-This section can be found in folder 2
+This section can be found in resultsPart2
 
 ## Insights and Final questions 🧠
 
