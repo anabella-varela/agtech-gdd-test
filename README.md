@@ -12,8 +12,8 @@ This section can be found in resultsPart2
 
 ## Insights and Final questions 🧠
 
-This section can be found [here](https://docs.google.com/presentation/d/1tBn6bSLQc5UbNhJziGbYF_4J3pG-Pir9Ky3tbSnmAZk/edit?slide=id.g36fad099f82_0_18#slide=id.g36fad099f82_0_18)
+This section can be found [here]([https://docs.google.com/presentation/d/1tBn6bSLQc5UbNhJziGbYF_4J3pG-Pir9Ky3tbSnmAZk/edit?slide=id.g36fad099f82_0_18#slide=id.g36fad099f82_0_18](https://docs.google.com/presentation/d/1tBn6bSLQc5UbNhJziGbYF_4J3pG-Pir9Ky3tbSnmAZk/edit?slide=id.p#slide=id.p))
 
 
-I Really enjoyed this challenge!!!!. Thank you!
+I Really enjoyed this challenge!!!!. Thank you!!!!!
 
